@@ -1,0 +1,21 @@
+
+		body{
+			background-color:#f0f0f0;
+		}
+		.center{
+			margin: auto;
+			margin-top: 50px;
+			border-radius: 20px;
+			background: white;
+			padding:20px 30px;
+			height: 200px;
+			width: 600px;
+
+
+		}
+		a{
+			color: steelblue;
+			text-decoration: none;
+		}
+		
+	
